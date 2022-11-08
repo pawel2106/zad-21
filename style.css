@@ -1,0 +1,17 @@
+p{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+		margin: 10px auto 0;
+		margin-left: 40px
+		
+    }
+#S1{
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+		margin: 10px auto 0;
+		margin-left: 40px
+		
+    }	
+#S2{ opacity: 0.5}
